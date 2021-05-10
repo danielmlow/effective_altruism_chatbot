@@ -5,7 +5,11 @@
 
 Then just execute the code blocks with shft+enter. Some things download into Google cloud server (it doesn't download to your local computer) the first time you run it.
 
+It's still a work in progress. Feel free to share and have others interested reach out if they'd like or just do their own thing with the code. It should be trained with more data or different models could be used, which should be simple and we've left tips for how to expand it at the bottom of the code: https://github.com/danielmlow/effective_altruism_chatbot/blob/main/ea_chatbot.ipynb 
+
 Free to use and reproduce.
 
--- Created by Daniel M. Low (Harvard University & MIT) and Benjamin Villa (Harvard University)
+Created by
+-- Daniel M. Low (Harvard University & MIT) @danielmlow
+-- Benjamin Villa (Harvard University)
 
